@@ -1,7 +1,7 @@
 ### Healthy Living Web Application for Sunita Sharma
 
 #### Overview:
-The provided code implements a basic web application designed to assist Sunita Sharma, a senior individual aged 65+, in maintaining a healthier lifestyle. The application dynamically displays random health tips, exercise recommendations, and daily reminders, automatically updating the content every 10 seconds. The project utilizes HTML, CSS, and JavaScript to create a user-friendly interface that offers guidance on various aspects of health and well-being.
+The provided code implements a basic web application designed to assist Sunita Sharma, a senior individual aged 65+, in maintaining a healthier lifestyle. The application dynamically displays random health tips, exercise recommendations, and daily reminders, automatically updating the content every 20 seconds. The project utilizes HTML, CSS, and JavaScript to create a user-friendly interface that offers guidance on various aspects of health and well-being.
 
 #### Components:
 
