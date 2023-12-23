@@ -31,3 +31,7 @@ The provided code implements a basic web application designed to assist Sunita S
 #### Conclusion:
 
 The Healthy Living Web Application code offers a straightforward yet effective solution for providing Sunita Sharma with continuous guidance on maintaining a healthier lifestyle. By leveraging JavaScript's capabilities to dynamically update content and the `setInterval()` method to automate the refreshment of recommendations, the application ensures that Sunita receives diverse and timely advice on nutrition, exercise, and daily routines, contributing to her overall well-being and quality of life.
+
+SCREEN SHOT OF MY PROJECT:
+![image](https://github.com/soham1522/Kartin-Project/assets/118202100/6f06af5f-cc32-4018-83e0-b21dabb9a17d)
+
